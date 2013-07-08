@@ -7,7 +7,7 @@ vendor/*
 */cache/*
 web/uploads/*
 web/bundles/*
-bin/
+bin/*
 
 # Configuration files
 app/config/parameters.ini
